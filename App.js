@@ -6,6 +6,7 @@
 
  //修改文件
 //分支dev修改文件
+//修改dev分支文件
 import {computed, observable, action} from "mobx";
 import { inject, observer } from 'mobx-react/native';
 
